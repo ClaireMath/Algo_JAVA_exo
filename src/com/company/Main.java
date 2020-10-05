@@ -28,7 +28,7 @@ public class Main {
         }
 
         System.out.println(sum);
-        int average = sum / scores.length;
+        float average = sum / scores.length;
         System.out.println(average);
 
     }
